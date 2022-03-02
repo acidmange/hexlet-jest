@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/acidmange/hexlet-jest/issues"
   },
-  "homepage": "https://github.com/acidmange/hexlet-jest#readme"
+  "homepage": "https://github.com/acidmange/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
